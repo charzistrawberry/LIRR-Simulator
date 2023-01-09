@@ -1,0 +1,2 @@
+# LIRR-Simulator
+Simulation that replicates the system of the Long Island railroad. Users can see the train travel times and arrival times at each station. Users can also keep track of the number of people in each cart as well as on the platforms waiting at each station. Capacity of space is considered in the cart and will pose an alert if number of passengers exceen the limit. Program utilizes foundations of data structures and algorithms as well as object-oriented programming.
